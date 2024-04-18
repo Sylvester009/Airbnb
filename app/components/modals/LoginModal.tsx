@@ -113,7 +113,7 @@ const LoginModal = () => {
       font-light'>
         <div className='justify-center flex flex-row items-center gap-2'>
           <div>
-            First using airbeeandbee?
+            First using airBnB?
           </div>
           <div onClick={toggle}
            className='
