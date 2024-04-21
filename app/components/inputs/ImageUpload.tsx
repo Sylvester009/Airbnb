@@ -25,7 +25,7 @@ const handleUpload = useCallback((result:any) => {
   return ( 
     <CldUploadWidget
     onSuccess={handleUpload}
-    uploadPreset="rcvmhs93"
+    uploadPreset="dvvnb3ig1"
     options={{
       maxFiles:1
     }}
